@@ -1,0 +1,45 @@
+.popup-style {
+  width: 79%;
+  border-radius: 10px;
+  /* margin: 9%; */
+  position: relative;
+  padding: 10px;
+  height: 120px;
+  background: #b4c6e1;
+  /* margin-top: -50%; */
+  margin-top: -89px;
+  margin-left: 47px;
+  border-top: 60px solid #517ec2;
+  
+}
+.invalid-title h2{
+  margin-top: -55px;
+  font-size: 25px;
+  position: absolute;
+  font-weight: 700;
+  color: white;
+}
+.invalid-error p{
+  font-size: 20px;
+  position: absolute;
+  font-weight: 500;
+  color: white;
+}
+.invalid-error button{
+  font-size: 20px;
+  position: absolute;
+  font-weight: 500;
+  color: white;
+  background: #517ec2;
+  border: none;
+  height: 25%;
+  width: 20%;
+  margin-top: 91px;
+  margin-left: 37%;
+  border-radius: 10px;
+}
+.invalid-error button:hover{
+
+  background: #1153b8;
+
+}
